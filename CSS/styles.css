@@ -20,8 +20,8 @@ h1{
 }
 #chicken, #beef, #sushi {
   position: absolute;
-  top: 0px;
-  right:0px;
+  top: -1px;
+  right: -1px;
   margin: auto;
   width: 130px;
   height: 35px;
